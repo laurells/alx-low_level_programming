@@ -4,3 +4,5 @@ This folder contains C-programming basic task such as preprocessing, compiliatio
 
 1-compiler file script compiles a C file but does not link it.
 
+2-assembler file script generates the assemble code of a C code and save it in an output file.
+
