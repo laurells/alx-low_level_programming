@@ -6,3 +6,5 @@ This folder contains C-programming basic task such as preprocessing, compiliatio
 
 2-assembler file script generates the assemble code of a C code and save it in an output file.
 
+3-name file script compiles a C file and creates an excutable named 'cisfun'.
+
