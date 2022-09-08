@@ -10,3 +10,5 @@ This folder contains C-programming basic task such as preprocessing, compiliatio
 
 4-puts.c prints exactly 'programming is like building a multilingual puzzle'.
 
+5-printf.c prints 'with proper grammar, but the outcome is a piece of art,'.
+
