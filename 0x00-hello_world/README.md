@@ -8,3 +8,5 @@ This folder contains C-programming basic task such as preprocessing, compiliatio
 
 3-name file script compiles a C file and creates an excutable named 'cisfun'.
 
+4-puts.c prints exactly 'programming is like building a multilingual puzzle'.
+
