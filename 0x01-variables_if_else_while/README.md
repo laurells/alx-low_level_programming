@@ -17,3 +17,5 @@ The 0x01. C - Variables, if, else, while folder consists of file scripts that ex
 7-print_tebahpla.c file script prints the lowercase alphabet in reverse followed by a new line.
 
 8-print_base16.c file script prints all the numbers of base 16 in lowercase followed by a new line.
+
+9-print_comb.c file script prints all possible combinations of single-digit numbers with ',' and spaces.
