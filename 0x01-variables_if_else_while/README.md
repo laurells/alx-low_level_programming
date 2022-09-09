@@ -9,3 +9,6 @@ The 0x01. C - Variables, if, else, while folder consists of file scripts that ex
 3-print_alphabets.c file script prints the alphabet in lowercase and then in uppercase followed by a new line.
 
 4-print_alphabt.c file script prints the alphabet in lowercase except the letter q and e then followed by a newline.
+
+5-print_numbers.c file script prints all single digit numbers from 0 to 9 followed by a new line.
+
