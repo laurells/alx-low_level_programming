@@ -12,3 +12,4 @@ The 0x01. C - Variables, if, else, while folder consists of file scripts that ex
 
 5-print_numbers.c file script prints all single digit numbers from 0 to 9 followed by a new line.
 
+6-print_numberz.c file script prints all single digit numbers of base 10 starting from 0, followed by a new line.
