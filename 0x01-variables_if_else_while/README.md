@@ -5,3 +5,5 @@ The 0x01. C - Variables, if, else, while folder consists of file scripts that ex
 1-last_digit.c file script assigns a random number to a variable n and prints the last digit of the number stored in the variable.
 
 2-print_alphabet.c file script prints the alphabet in lowercase, followed by a new line.
+
+3-print_alphabets.c file script prints the alphabet in lowercase and then in uppercase followed by a new line.
