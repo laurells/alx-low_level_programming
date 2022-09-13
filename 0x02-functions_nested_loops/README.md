@@ -9,3 +9,5 @@
 3-islower.c checks for lowercase character.
 
 4-isalpha.c checks for alphabetic character.
+
+5-sign.c is a program that prints the sign of a number.
