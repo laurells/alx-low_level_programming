@@ -19,3 +19,5 @@
 8-24_hours.c is a program file that prints every minute of the day of Jack Bauer starting from 00:00 to 23:59
 
 9-times_table.c is a function that prints 9 times table starting with 0.
+
+10-add.c is a function that adds two integers and returns the result.
